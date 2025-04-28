@@ -1,5 +1,4 @@
-# ai-clinic-analysis
-Collection de notebooks réalisés dans le cadre de l'AI Clinic : analyses de données, visualisations, modèles et recommandations.
+
 # AI Clinic - Energy Data Analysis Projects
 
 Ce dépôt regroupe plusieurs projets d'analyse de données réalisés dans le cadre de l'AI Clinic. Chaque notebook explore une problématique différente en utilisant des données énergétiques, climatiques et démographiques.
